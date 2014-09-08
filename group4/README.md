@@ -11,5 +11,5 @@ Go to website.
 Group Name:
 
 Members:
-* Member 1
-* Member 2
+* Siddhant Bal
+* Prayash Mohapatra
