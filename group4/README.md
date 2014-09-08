@@ -8,7 +8,7 @@ Go to website.
 
 [Group Mascot]
 
-Group Name:
+Group Name: Maruto
 
 Members:
 * Siddhant Bal
